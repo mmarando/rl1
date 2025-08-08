@@ -24,4 +24,4 @@ El sistema incluye un proceso de **Grid Search** para optimizar los hiperparáme
 ## Cómo ejecutar el código
 
 * La notebook `lstm_rl.ipynb` contiene toda la lógica para la generación de datos, el entrenamiento del autoencoder y el agente RL, la evaluación y la visualización **(wip)**
-* Se puede abrir y ejecutar directamente en Google Colab accediendo al siguiente link: <https://colab.research.google.com/github/mmarando/rl1/blob/main/rl1/lstm_rl.ipynb>
+* Se puede abrir y ejecutar directamente en Google Colab accediendo al siguiente link: <https://colab.research.google.com/github/mmarando/rl1/blob/main/lstm_rl.ipynb>
