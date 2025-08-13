@@ -19,7 +19,7 @@ El sistema incluye un proceso de **Grid Search** para optimizar los hiperparáme
 
 ## Documentación
 
-* Ver [informe.pdf](docs/informe.pdf) **(wip)**
+* Ver [informe.pdf](docs/informe.pdf)
 
 ## Cómo ejecutar el código
 
