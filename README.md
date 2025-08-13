@@ -14,8 +14,8 @@ El sistema incluye un proceso de **Grid Search** para optimizar los hiperparáme
 - [x] Generación de datos sintéticos
 - [x] Autoencoder LSTM
 - [x] Agente de Q-Learning base
-- [ ] Grid Search para el agente de Q-Learning: **(wip)**
-- [ ] Evaluación y visualización: **(wip)**
+- [x] Grid Search para el agente de Q-Learning
+- [x] Evaluación y visualización
 
 ## Documentación
 
@@ -23,5 +23,5 @@ El sistema incluye un proceso de **Grid Search** para optimizar los hiperparáme
 
 ## Cómo ejecutar el código
 
-* La notebook `lstm_rl.ipynb` contiene toda la lógica para la generación de datos, el entrenamiento del autoencoder y el agente RL, la evaluación y la visualización **(wip)**
+* La notebook `lstm_rl.ipynb` contiene toda la lógica para la generación de datos, el entrenamiento del autoencoder y el agente RL, la evaluación y la visualización
 * Se puede abrir y ejecutar directamente en Google Colab accediendo al siguiente link: <https://colab.research.google.com/github/mmarando/rl1/blob/main/lstm_rl.ipynb>
